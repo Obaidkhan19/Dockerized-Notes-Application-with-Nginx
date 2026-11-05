@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-Application status: Local version
+Application status: LOCAL CONFLICT TEST
 ## Installation
 1. Clone the repository
 ```
