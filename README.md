@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-Application status: LOCAL CONFLICT TEST
+Git Workflow Practice
 ## Installation
 1. Clone the repository
 ```
