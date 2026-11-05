@@ -5,8 +5,7 @@
 2. Node.js
 3. React
 
-change for conflicts merging
-change for conflicts merging from desktop
+change for conflicts merg
 ## Installation
 1. Clone the repository
 ```
