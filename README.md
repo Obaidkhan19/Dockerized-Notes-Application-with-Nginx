@@ -6,6 +6,7 @@
 3. React
 
 change for conflicts merging
+change for conflicts merging from desktop
 ## Installation
 1. Clone the repository
 ```
