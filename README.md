@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-Application status: GitHub version
+Application status: Local version
 ## Installation
 1. Clone the repository
 ```
