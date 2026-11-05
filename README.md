@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-Application status: GitHub version
+Application status: GITHUB CONFLICT TEST
 ## Installation
 1. Clone the repository
 ```
