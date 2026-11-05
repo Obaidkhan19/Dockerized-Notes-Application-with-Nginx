@@ -4,7 +4,7 @@ from rest_framework.response import Response
 from .serializers import NoteSerializer
 from .models import Note
 
-# Create your views here change updae.
+# Create your views here.
 
 @api_view(['GET'])
 def getRoutes(request):
