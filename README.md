@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-change using changereadme branch
+change for conflicts merging
 ## Installation
 1. Clone the repository
 ```
