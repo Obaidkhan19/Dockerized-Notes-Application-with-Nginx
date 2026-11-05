@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-change using changereadme branch
+This application supports user login.
 ## Installation
 1. Clone the repository
 ```
