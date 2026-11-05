@@ -5,7 +5,7 @@
 2. Node.js
 3. React
 
-change for conflicts merg
+Application status: GitHub version
 ## Installation
 1. Clone the repository
 ```
