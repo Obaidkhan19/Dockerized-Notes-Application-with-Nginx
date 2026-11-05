@@ -5,7 +5,9 @@
 2. Node.js
 3. React
 
-change using changereadme branch
+## Git Workflow Practice
+
+This section was added to practise GitHub Pull Requests.
 ## Installation
 1. Clone the repository
 ```
